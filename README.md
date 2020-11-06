@@ -17,7 +17,11 @@
  ## Import dataset and Data Cleaning
   * Starting with import all dataset and concat those to 1 dataset for a year
   * Checking NaN values and Drop if there are NaN Value.
+
+
 ![Figure 1](https://github.com/boxside/Electronic-s-Sale-Annual-Report/blob/main/Figure/missing_value.png)
+
+
  ## Question 1 : What was the best month for sales? How much was earned that month?
   1. Make 'Month' column from 'Order Date' column using .str to get certain string and change str to int32
   2. Make 'Revenue' column from 'Quantity Ordered' multiple by 'Price Each'
@@ -45,6 +49,10 @@
   2. drop the duplicate order id.
   3. count the product that sold together using Counter() and combinations()
   4. make new dataframe with bundle and count itself
+  
+  
+ ![Figure 5](https://github.com/boxside/Electronic-s-Sale-Annual-Report/blob/main/Figure/Figure_4.png)
+  
   Result : the products are most sold together are iPhone and Lightning Charging Cable, then followed by Google Phone and USB-C Charging Cable.
   with this result next year we can make new strategy with bundling discount to maximize our sales.
  ## Question 5 : What product sold the most? Why do you think it sold the most?
