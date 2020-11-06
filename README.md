@@ -1,4 +1,4 @@
-# Electronic-s-Sale-Annual-Report
+# Electronic's Sales Report
  * to analyze and answer the business question of electronic's sales report
  * to visualization the sales report's data
  
