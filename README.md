@@ -51,7 +51,7 @@
   4. make new dataframe with bundle and count itself
   
   
- ![Figure 5](https://github.com/boxside/Electronic-s-Sale-Annual-Report/blob/main/Figure/Figure_4.png)
+ ![Figure 5](https://github.com/boxside/Electronic-s-Sale-Annual-Report/blob/main/Figure/Figure_5.png)
   
   Result : the products are most sold together are iPhone and Lightning Charging Cable, then followed by Google Phone and USB-C Charging Cable.
   with this result next year we can make new strategy with bundling discount to maximize our sales.
