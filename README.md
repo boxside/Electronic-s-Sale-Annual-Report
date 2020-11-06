@@ -17,6 +17,7 @@
  ## Import dataset and Data Cleaning
   * Starting with import all dataset and concat those to 1 dataset for a year
   * Checking NaN values and Drop if there are NaN Value.
+![Figure 1](https://github.com/boxside/Electronic-s-Sale-Annual-Report/blob/main/Figure/missing_value.png)
  ## Question 1 : What was the best month for sales? How much was earned that month?
   1. Make 'Month' column from 'Order Date' column using .str to get certain string and change str to int32
   2. Make 'Revenue' column from 'Quantity Ordered' multiple by 'Price Each'
